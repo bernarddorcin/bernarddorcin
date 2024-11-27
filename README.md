@@ -10,6 +10,7 @@
 - <b>VMware & Window Server</b>
   - [VMware Pro 17 & Window Server 2025 Installation/Configuration](https://github.com/bernarddorcin/VMWare_and_WindowServer2025_Installation)
   - [ Updating Server Hostname, Enabling Remote Desktop Connection, & Changing Server IP to Static IP Address](https://github.com/bernarddorcin/UpdateServerIP_toStaticIP_ChangeHostname_EnableRemoteConnection)
+  - [File Server Creation & Mapping a shared folder to Local Host from Window Server 2025](https://github.com/bernarddorcin/WindowServer2025_SharedFolderMappedtoLocalHost_FileServerCreation)
 <!--
 **bernarddorcin/bernarddorcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
